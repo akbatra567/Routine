@@ -4,16 +4,16 @@
 
 ### Array
 
-* Two Sum
-* Best Time to Buy and Sell Stock
-* Contains Duplicate
-* Product of Array Except Self
-* Maximum Subarray
-* Maximum Product Subarray
-* Find Minimum in Rotated Sorted Array
-* Search in Rotated Sorted Array
-* 3 Sum
-* Container With Most Water
+* [Two Sum](Questions/TwoSum.md)
+* [Best Time to Buy and Sell Stock](Questions/BestTimetoBuyandSellStock.md)
+* [Contains Duplicate](Questions/ContainsDuplicate.md)
+* [Product of Array Except Self](Questions/ProductofArrayExceptSelf.md)
+* [Maximum Subarray](Questions/MaximumSubarray.md)
+* [Maximum Product Subarray](Questions/MaximumProductSubarray.md)
+* [Find Minimum in Rotated Sorted Array](Questions/FindMinimuminRotatedSortedArray.md)
+* [Search in Rotated Sorted Array](Questions/SearchinRotatedSortedArray.md)
+* [3 Sum](Questions/3Sum.md)
+* [Container With Most Water](Questions/ContainerWithMostWater.md)
 
 
 ### Binary
