@@ -4,22 +4,109 @@
 
 ### Array
 
-* [Two Sum](Questions/TwoSum.md)
-* [Best Time to Buy and Sell Stock](Questions/BestTimetoBuyandSellStock.md)
-* [Contains Duplicate](Questions/ContainsDuplicate.md)
-* [Product of Array Except Self](Questions/ProductofArrayExceptSelf.md)
-* [Maximum Subarray](Questions/MaximumSubarray.md)
-* [Maximum Product Subarray](Questions/MaximumProductSubarray.md)
-* [Find Minimum in Rotated Sorted Array](Questions/FindMinimuminRotatedSortedArray.md)
-* [Search in Rotated Sorted Array](Questions/SearchinRotatedSortedArray.md)
-* [3 Sum](Questions/3Sum.md)
-* [Container With Most Water](Questions/ContainerWithMostWater.md)
+* [Two Sum](Questions/TwoSum.md) [Leet](https://leetcode.com/problems/two-sum/description/)
+* [Best Time to Buy and Sell Stock](Questions/BestTimetoBuyandSellStock.md) [Leet](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Contains Duplicate](Questions/ContainsDuplicate.md) [Leet](https://leetcode.com/problems/contains-duplicate/)
+* [Product of Array Except Self](Questions/ProductofArrayExceptSelf.md) [Leet](https://leetcode.com/problems/product-of-array-except-self/)
+* [Maximum Subarray](Questions/MaximumSubarray.md) [Leet](https://leetcode.com/problems/maximum-subarray/)
+* [Maximum Product Subarray](Questions/MaximumProductSubarray.md) [Leet](https://leetcode.com/problems/maximum-product-subarray/)
+* [Find Minimum in Rotated Sorted Array](Questions/FindMinimuminRotatedSortedArray.md) [Leet](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+* [Search in Rotated Sorted Array](Questions/SearchinRotatedSortedArray.md) [Leet](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+* [3 Sum](Questions/3Sum.md) [Leet](https://leetcode.com/problems/3sum/)
+* [Container With Most Water](Questions/ContainerWithMostWater.md) [Leet](https://leetcode.com/problems/container-with-most-water/)
 
 
 ### Binary
 
-* Sum of Two Integers
-* Number of 1 Bits
-* Counting Bits
-* Missing Number
-* Reverse Bits
+* Sum of Two Integers [Leet](https://leetcode.com/problems/sum-of-two-integers/)
+* Number of 1 Bits [Leet](https://leetcode.com/problems/number-of-1-bits/)
+* Counting Bits [Leet](https://leetcode.com/problems/counting-bits/)
+* Missing Number [Leet](https://leetcode.com/problems/missing-number/)
+* Reverse Bits [Leet](https://leetcode.com/problems/reverse-bits/)
+
+
+### Dynamic Programming
+
+Climbing Stairs
+Coin Change
+Longest Increasing Subsequence
+Longest Common Subsequence
+Word Break Problem
+Combination Sum
+House Robber
+House Robber II
+Decode Ways
+Unique Paths
+Jump Game
+
+### Graph
+
+Clone Graph
+Course Schedule
+Pacific Atlantic Water Flow
+Number of Islands
+Longest Consecutive Sequence
+Alien Dictionary (Leetcode Premium)
+Graph Valid Tree (Leetcode Premium)
+Number of Connected Components in an Undirected Graph (Leetcode Premium)
+
+
+### Interval
+
+Insert Interval
+Merge Intervals
+Non-overlapping Intervals
+Meeting Rooms (Leetcode Premium)
+Meeting Rooms II (Leetcode Premium)
+
+### Linked List
+
+Reverse a Linked List
+Detect Cycle in a Linked List
+Merge Two Sorted Lists
+Merge K Sorted Lists
+Remove Nth Node From End Of List
+Reorder List
+
+### Matrix
+
+Set Matrix Zeroes
+Spiral Matrix
+Rotate Image
+Word Search
+
+### String
+
+Longest Substring Without Repeating Characters
+Longest Repeating Character Replacement
+Minimum Window Substring
+Valid Anagram
+Group Anagrams
+Valid Parentheses
+Valid Palindrome
+Longest Palindromic Substring
+Palindromic Substrings
+Encode and Decode Strings (Leetcode Premium)
+
+### Tree
+
+Maximum Depth of Binary Tree
+Same Tree
+Invert/Flip Binary Tree
+Binary Tree Maximum Path Sum
+Binary Tree Level Order Traversal
+Serialize and Deserialize Binary Tree
+Subtree of Another Tree
+Construct Binary Tree from Preorder and Inorder Traversal
+Validate Binary Search Tree
+Kth Smallest Element in a BST
+Lowest Common Ancestor of BST
+Implement Trie (Prefix Tree)
+Add and Search Word
+Word Search II
+
+### Heap
+
+Merge K Sorted Lists
+Top K Frequent Elements
+Find Median from Data Stream
